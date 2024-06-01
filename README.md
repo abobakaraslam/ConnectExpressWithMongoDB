@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=-VZb8zPdRio
 
 - Now run below command to run the code
 
-      npm run dev
+      nodemon ./index.js
